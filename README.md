@@ -23,7 +23,7 @@ A basic image editor that can add filters and do a few effects
 + Save Image = **s**
 
 # Examples
-![](https://github.com/Toasted-Biscuit/Image-Editor/blob/main/Giant_Rubber_Duck.jpg?raw=true)
+![](https://github.com/Toasted-Biscuit/Image-Editor/blob/main/Example_Images/Giant_Rubber_Duck.jpg?raw=true)
 
 *Original Image*
 # 
